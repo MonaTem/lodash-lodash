@@ -3,7 +3,7 @@ In this assignment, we want you to re-implement some of the most popular methods
 
 If you're unfamiliar with lodash, it's [a popular utility library][popular-utility-library] written in JavaScript. Inside of it, you'll find a collection of methods, such as [forEach()][for-each], which replaces the boilerplate code that developers often find themselves writing--e.g., code that iterates on every item of a collection.
 
-Here's an example:
+Here's an example (update: JS didnt have native forEach when this was written):
 
 ```javascript
 // Without lodash, you have to create your own implementation of forEach.
